@@ -1,1 +1,2 @@
-![Profile views](https://gpvc.arturio.dev/masumwbdev)
+- Working as a Front end developer
+- [LinkedIn](https://www.linkedin.com/in/masumwdv/)
